@@ -1,4 +1,6 @@
-# Hi there! 👋
+# Hi I'm Ron! 👋
+
+![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=svcvit)
 
 ## 🚀 Digital Enthusiast | Solution Architect
 
